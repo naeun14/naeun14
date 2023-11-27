@@ -1,14 +1,18 @@
-<!--
-### <div align="center">✨계명대학교 컴퓨터공학전공 권나은입니다</div>
-- 알고리즘 위주로 공부중이며, 확실하게 방향성을 잡지 못해 여러가지 공부중입니다.
-- 제 1회 벤처스타트업아카데미해커톤 메가존클라우드상 수상
 
-<div>
-Profile: 
-<a href="https://www.instagram.com/me_y0ou_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</div>
--->
-### <div align="center">Study Algorithms & Codes</div>
+# 👋Welcome to my GitHub!
+- 알고리즘 공부 / 웹 프론트엔드 공부중
+- Profile:  <a href="https://www.instagram.com/me_y0ou_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<h2 style="display: inline-block; vertical-align: middle;">💼프로젝트</h2>
+- [국민체력100 동영상 정보를 활용한 운동 루틴 설계 및 정보 제공 플랫폼] https://github.com/wara-capstone/GOWO
+ <h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2>
+- 계명대학교 캡스톤 경진대회 장려상
+- 2022 글로벌 이노베이터 페스타(GIF) 청년리그 장려상
+- 제 1회 벤처스타트업아카데미해커톤 메가존클라우드상 
+- 4차산업혁명 인재양성 연합페스티벌 창업아이디어 부분 최우수상 
+
+
+
+<h2 style="display: inline-block; vertical-align: middle;">🛠기술</h2>
 <div>  
 <p>Tech:  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
