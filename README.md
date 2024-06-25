@@ -1,8 +1,10 @@
 
 # 👋Welcome to my GitHub!
 - 알고리즘 공부 / 웹 프론트엔드 공부중
+<!--
 - Profile:  <a href="https://www.instagram.com/me_y0ou_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 - 블로그: <a href="https://my-eun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+-->
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트</h2>
 
 - [국민체력100 동영상 정보를 활용한 운동 루틴 설계 및 정보 제공 플랫폼] https://github.com/wara-capstone/GOWO
